@@ -1,5 +1,19 @@
 *.class
 
+#Eclipse 
+.project
+.settings/
+
+#IDEA
+*.iml
+.idea
+
+#Tests
+test-output/
+
+#Common
+target/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
